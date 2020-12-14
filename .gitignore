@@ -1,0 +1,20 @@
+/.gradle
+/build
+/buildSrc/.gradle
+.DS_Store
+build/
+*.iws
+*.ipr
+
+# Eclipse
+/bin/
+.project
+.classpath
+
+# Intellij
+out/
+/.settings/
+*.iml
+/.datastore
+.idea/
+/server/src/main/kotlin/Test.kt
